@@ -4,7 +4,14 @@ This is a .NET core project that allow to create a dataset with watermarked and 
 The project is to support my custom experiment while attending the Cousera course [Convolutional Neural Networks in TensorFlow Couse](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/home/welcome)
 The watermarked pictures are randomly synthetically generated with random meaningless words, random colors, size and positioning.
 
-The image are downloaded thanks to [Pexels](https://www.pexels.com/) API. If you want to run the code to download a dataset you first need to obtain an API key from [here](https://www.pexels.com/api/documentation/#authorization).
+The image are downloaded thanks to [Pexels](https://www.pexels.com/) API. 
+
+[Pexels](https://www.pexels.com/) *provides high quality and completely free stock photos licensed under the Pexels license. All photos are nicely tagged, searchable and also easy to discover through our discover pages.*
+
+
+You can find better detail about the **license** [here](https://www.pexels.com/license/)
+
+If you want to run the code to download a dataset you first need to obtain an API key from [here](https://www.pexels.com/api/documentation/#authorization).
 
 ## How to build
 This program requires the [NET Core](https://dotnet.microsoft.com/download) SDK **3.1** or better to compile.
