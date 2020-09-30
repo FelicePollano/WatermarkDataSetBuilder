@@ -55,32 +55,32 @@ Please note the (hidden) file ```.checkpoint``` which pourpose is to restart fro
 <img align="left" src="https://user-images.githubusercontent.com/73569/94658286-e8791780-0302-11eb-9e3a-06301422fc7e.jpeg">
 <img align="left" src="https://user-images.githubusercontent.com/73569/94658289-e8791780-0302-11eb-9473-393e3a37453a.jpg">
 
-<img src="https://user-images.githubusercontent.com/73569/94658292-e911ae00-0302-11eb-9c5a-f11d26147ce4.jpeg">
+<img align="left" src="https://user-images.githubusercontent.com/73569/94658292-e911ae00-0302-11eb-9c5a-f11d26147ce4.jpeg">
 <img align="left" src="https://user-images.githubusercontent.com/73569/94658293-e911ae00-0302-11eb-8001-b7b36475dcf8.jpg">
 <img align="left" src="https://user-images.githubusercontent.com/73569/94658294-e9aa4480-0302-11eb-8cab-9e1fa343d67a.jpg">
 
-<img src="https://user-images.githubusercontent.com/73569/94658296-e9aa4480-0302-11eb-80eb-ab1ee4084309.jpg">
+<img align="left" src="https://user-images.githubusercontent.com/73569/94658296-e9aa4480-0302-11eb-80eb-ab1ee4084309.jpg">
 <img align="left" src="https://user-images.githubusercontent.com/73569/94658299-ea42db00-0302-11eb-9f84-713aba7daf50.jpg">
 <img align="left" src="https://user-images.githubusercontent.com/73569/94658303-eadb7180-0302-11eb-87f2-b80739df1e71.jpeg">
 
-<img src="https://user-images.githubusercontent.com/73569/94658306-eb740800-0302-11eb-89df-1d37eec1c5ad.jpeg">
+<img align="left" src="https://user-images.githubusercontent.com/73569/94658306-eb740800-0302-11eb-89df-1d37eec1c5ad.jpeg">
 
 ## Difficult to recognize watermarks
 Can you spot it?
 
-<img src="https://user-images.githubusercontent.com/73569/94659198-35a9b900-0304-11eb-94fe-e7cdbc4d3b3a.jpeg">
+<img align="left" src="https://user-images.githubusercontent.com/73569/94659198-35a9b900-0304-11eb-94fe-e7cdbc4d3b3a.jpeg">
 <img align="left" src="https://user-images.githubusercontent.com/73569/94659200-36424f80-0304-11eb-9ac1-698987787e5a.jpg">
 <img align="left" src="https://user-images.githubusercontent.com/73569/94659202-36dae600-0304-11eb-8707-d17b23b4b829.jpeg">
 
-<img src="https://user-images.githubusercontent.com/73569/94659204-37737c80-0304-11eb-94a4-6ce92de879c3.jpeg">
+<img align="left" src="https://user-images.githubusercontent.com/73569/94659204-37737c80-0304-11eb-94a4-6ce92de879c3.jpeg">
 <img align="left" src="https://user-images.githubusercontent.com/73569/94659205-380c1300-0304-11eb-94a6-941ac9d888e2.jpg">
 <img align="left" src="https://user-images.githubusercontent.com/73569/94659208-380c1300-0304-11eb-92e6-c474aac5d6f6.jpeg">
 
-<img src="https://user-images.githubusercontent.com/73569/94659211-38a4a980-0304-11eb-9d98-348ae8e5209f.jpeg">
+<img align="left" src="https://user-images.githubusercontent.com/73569/94659211-38a4a980-0304-11eb-9d98-348ae8e5209f.jpeg">
 <img align="left" src="https://user-images.githubusercontent.com/73569/94659215-393d4000-0304-11eb-84bf-0b4187e26fa7.jpeg">
 <img align="left" src="https://user-images.githubusercontent.com/73569/94659217-393d4000-0304-11eb-81b1-df763d5bcb0e.jpeg">
 
-<img src="https://user-images.githubusercontent.com/73569/94659218-39d5d680-0304-11eb-874d-663dc4eeeb18.jpeg">
+<img align="left" src="https://user-images.githubusercontent.com/73569/94659218-39d5d680-0304-11eb-874d-663dc4eeeb18.jpeg">
 <img align="left" src="https://user-images.githubusercontent.com/73569/94659220-3a6e6d00-0304-11eb-9a5b-b0b40b0f6cdf.jpeg">
 <img align="left" src="https://user-images.githubusercontent.com/73569/94659221-3b070380-0304-11eb-9923-3a0e6cde1664.jpeg">
 
