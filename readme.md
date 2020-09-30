@@ -63,7 +63,8 @@ Please note the (hidden) file ```.checkpoint``` which pourpose is to restart fro
 <img align="left" src="https://user-images.githubusercontent.com/73569/94658299-ea42db00-0302-11eb-9f84-713aba7daf50.jpg">
 <img align="left" src="https://user-images.githubusercontent.com/73569/94658303-eadb7180-0302-11eb-87f2-b80739df1e71.jpeg">
 
-<img align="left" src="https://user-images.githubusercontent.com/73569/94658306-eb740800-0302-11eb-89df-1d37eec1c5ad.jpeg">
+<img src="https://user-images.githubusercontent.com/73569/94658306-eb740800-0302-11eb-89df-1d37eec1c5ad.jpeg">
+
 
 ## Difficult to recognize watermarks
 Can you spot it?
