@@ -1,6 +1,7 @@
 # WatermarkDatasetBuilder
 
 This is a .NET core project that allow to create a dataset with watermarked and not watermarked pictures in order to use for classifing images according to that.
+The project is to support my custom experiment while attending the Cousera course [Convolutional Neural Networks in TensorFlow Couse](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/home/welcome)
 The watermarked pictures are randomly synthetically generated with random meaningless words, random colors, size and positioning.
 
 The image are downloaded thanks to [Pexels](https://www.pexels.com/) API. If you want to run the code to download a dataset you first need to obtain an API key from [here](https://www.pexels.com/api/documentation/#authorization).
@@ -39,5 +40,4 @@ Data are splitted across *train* and *valid* with a proportion of 80/20. Waterma
 
 Please note the (hidden) file ```.checkpoint``` which pourpose is to restart from where the download left in case of any kind of stop ( even API limitation). If, for some reason, you want to start from scratch, just remove this file.
 
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+
