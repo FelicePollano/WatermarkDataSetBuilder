@@ -9,6 +9,10 @@ The image are downloaded thanks to [Pexels](https://www.pexels.com/) API. If you
 This program requires the [NET Core](https://dotnet.microsoft.com/download) SDK **3.1** or better to compile.
 Clone the project.
 when SDK is installed just run this command in the root folder of the project
-```dotnet buil```
+```
+dotnet buil
+```
 then you can launch the downloading by using:
-```dotnet run <YOUR API KEY> <output folder> <searchitem1> optsearchitem2 optsearchitem3 ... optsearchitemn```
+```
+dotnet run <YOUR API KEY> <output folder> <searchitem1> optsearchitem2 optsearchitem3 ... optsearchitemN
+```
