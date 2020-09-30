@@ -103,13 +103,13 @@ namespace WatermarkDataSetBuilder
 
             var wm = downloadCount%2 == 0? WATERMARK:NO_WATERMARK;
 
-            var fileName = Path.Combine(downloadCount%5==0?Path.Combine(valid, wm) :Path.Combine(train, wm),seg);
+            var fileName = Path.Combine(downloadCount%5==0?Path.Combine(valid, wm):Path.Combine(train, wm),seg);
 
-            if(downloadCount% RANDOM_SEED == 0)
+            if(downloadCount% 1000 == 0)
             {
                 Console.WriteLine("downloaded {0} images so far",downloadCount);
             }
-            byte[] buffer = new byte[4096];
+            byte[] buffer = new byte[PAGE_SIZE];
             using( var wr = new FileStream(fileName,FileMode.Create,FileAccess.ReadWrite) )
             {
                 int nread;
