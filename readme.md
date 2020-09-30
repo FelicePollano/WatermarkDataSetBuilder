@@ -10,7 +10,7 @@ This program requires the [NET Core](https://dotnet.microsoft.com/download) SDK 
 Clone the project.
 when SDK is installed just run this command in the root folder of the project
 ```
-dotnet buil
+dotnet build
 ```
 then you can launch the downloading by using:
 ```
