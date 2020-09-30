@@ -38,3 +38,6 @@ This should help to load the image by using the Keras `ImageDataGenerator`
 Data are splitted across *train* and *valid* with a proportion of 80/20. Watermark/not watermark ratio is supposed to be 50/50, but can sligthy change due to image processor errors.
 
 Please note the (hidden) file ```.checkpoint``` which pourpose is to restart from where the download left in case of any kind of stop ( even API limitation). If, for some reason, you want to start from scratch, just remove this file.
+
+<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
