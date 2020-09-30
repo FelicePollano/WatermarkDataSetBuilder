@@ -51,7 +51,7 @@ Please note the (hidden) file ```.checkpoint``` which pourpose is to restart fro
 
 ## Easy to recognize watermarks
 
-<img src="https://user-images.githubusercontent.com/73569/94658283-e747ea80-0302-11eb-9df1-21787ca76ad6.jpeg">
+<img align="left" src="https://user-images.githubusercontent.com/73569/94658283-e747ea80-0302-11eb-9df1-21787ca76ad6.jpeg">
 <img align="left" src="https://user-images.githubusercontent.com/73569/94658286-e8791780-0302-11eb-9e3a-06301422fc7e.jpeg">
 <img align="left" src="https://user-images.githubusercontent.com/73569/94658289-e8791780-0302-11eb-9473-393e3a37453a.jpg">
 
