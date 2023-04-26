@@ -47,6 +47,8 @@ Data are splitted across *train* and *valid* with a proportion of 80/20. Waterma
 
 Please note the (hidden) file ```.checkpoint``` which pourpose is to restart from where the download left in case of any kind of stop ( even API limitation). If, for some reason, you want to start from scratch, just remove this file.
 
+If you need to see some noteooks created using this datasource, have a look on the [Kaggle page](https://www.kaggle.com/datasets/felicepollano/watermarked-not-watermarked-images) thre is some projecy from me and from others.
+
 # Examples
 
 ## Easy to recognize watermarks
